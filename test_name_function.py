@@ -23,3 +23,6 @@ unittest.main()
 # the self.assertEqual is just how it sounds, are the results equal to what i write as an arg?
 
 # unittest.main() tells python to run the test in this file
+
+
+# i tried to change name_function to accept a middle name but i keep getting invalid syntax errors. im not sure if it has to do with the pycache folder created...  im trying to show tests that fail

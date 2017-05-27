@@ -11,5 +11,3 @@ while True:
 
     formatted_name = get_formatted_name(first, last)
     print("\nNeatly formatted name: "+ formatted_name+".")
-
-    
